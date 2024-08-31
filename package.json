@@ -1,0 +1,20 @@
+{
+  "name": "safeql-check-postgresjs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ts-safeql/eslint-plugin": "^3.4.1",
+    "libpg-query": "15.2.0-rc.deparse.3",
+    "tsx": "^4.19.0",
+    "typescript-eslint": "^8.3.0"
+  },
+  "dependencies": {
+    "postgres": "^3.4.4",
+    "typescript": "^5.5.4"
+  }
+}
